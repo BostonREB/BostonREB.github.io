@@ -1,0 +1,13 @@
+# Site settings
+title: Rich Bowman -- Developer
+email: richardebowman1@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Former attorney who has transitioned his career to web development.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://BostonREB.github.io" # the base hostname & protocol for your site
+twitter_username: TheBostonREB
+github_username:  BostonREB
+
+# Build settings
+markdown: redcarpet
+pygments: true
