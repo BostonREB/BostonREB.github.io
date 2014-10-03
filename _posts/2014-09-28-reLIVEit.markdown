@@ -7,6 +7,6 @@ alt: image-alt
 project-date: May 2014
 client: Metis
 category: Web Development
-description: Web App allowing users to follow and track their favorite bands and upcoming tour dates.  Users will also be able to track when audio recordings of the artists shows become available.
+description: Web app allowing users to follow and track their favorite bands and upcoming tour dates.  Users will also be able to track when audio recordings of the artists shows become available. <p><a href="http://reliveit.herokuapp.com">Check out the app on Heroku</a></p>  <p><a href="https://github.com/BostonREB/reLiveit">Check out the code on Github</a></p>
 
 ---

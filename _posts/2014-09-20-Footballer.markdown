@@ -7,6 +7,6 @@ alt: image-alt
 project-date: Fall 2014
 client: S&BFFL
 category: Web Development
-description: Web platform for running multiple fantasy football leagues.  (Work on Progress).
+description: Web platform for running multiple fantasy football leagues.  (Work on Progress).  <p><a href="https://github.com/BostonREB/football">Check out the code on Github</a></p>
 
 ---
