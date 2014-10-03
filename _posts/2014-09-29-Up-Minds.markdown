@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 2
+date: 2014-10-01
+img: Up_Minds.png
+alt: image-alt
+project-date: May 2014
+client: Metis
+category: Web Development
+description: Web App allowing users to follow and track their favorite bands and upcoming tour dates.  Users will also be able to track when audio recordings of the artists shows become available.
+
+---

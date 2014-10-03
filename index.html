@@ -2,10 +2,19 @@
 layout: default
 ---
 
-<u>Key Skills</u><br>
+<div class="home">
 
-<b>Technical</b>
-Ruby on Rails, Ruby, HTML, CSS/SASS, Javascript, SQL, PostgreSQL, Git, Mac OS X, Microsoft Windows<br>
+  <h1>Posts</h1>
 
-<b>General</b>
-Problem Solving, Analysis, Critical Thinking, Communication, Collaborating, Leadership, Prioritizing
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
