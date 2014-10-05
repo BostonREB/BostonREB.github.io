@@ -7,6 +7,6 @@ alt: image-alt
 project-date: May 2014
 client: Metis
 category: Web Development
-description: Web app allowing users to follow and track their favorite bands and upcoming tour dates.  Users will also be able to track when audio recordings of the artists shows become available. <p><a href="http://upminds.herokuapp.com/">Check out the app on Heroku</a></p>  <p><a href="https://github.com/BostonREB/up_minds">Check out the code on Github</a></p>
+description: UpMinds is a reverse job board that allows job seekers to upload information about their skills and proficiencies and allows them to highlight thier project portfolio.  It also allows employers to search for potential employees based on the location and skills of potential candidates.  The web app was created as part of a three person collaboration during the Metis bootcamp.  App was built using Ruby on Rails and graphing was accoplished using Highcharts. <p><a href="http://upminds.herokuapp.com/">Check out the app on Heroku</a></p>  <p><a href="https://github.com/BostonREB/up_minds">Check out the code on Github</a></p>
 
 ---
