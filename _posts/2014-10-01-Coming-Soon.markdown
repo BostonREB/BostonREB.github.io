@@ -2,7 +2,7 @@
 layout: default
 modal-id: 4
 date: 2014-10-01
-img: cat-computer.png
+img: under-construction.png
 alt: image-alt
 project-date: Fall 2014
 client: Maybe you?
